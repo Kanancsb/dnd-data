@@ -1,0 +1,2396 @@
+[
+  {
+    "name": "Acid",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 25 GP When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus ) or take 2d6 Acid damage.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Acid"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Airship",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Alchemist's Fire",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 50 GP When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus ) or take 1d4 Fire damage and start burning .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Alchemist's Fire"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Alchemist's Supplies",
+    "description": "Artisan's Tools Ability: Intelligence Weight: 8 lb. Cost: 50 GP Utilize: Identify a substance (DC 15), or start a fire (DC 15) Craft: Acid , Alchemist’s Fire , Component Pouch , Oil , Paper , Perfume",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Alchemist's Supplies"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Amulet",
+    "description": "Adventuring Gear (Holy Symbol) Weight: 1 lb. Cost: 5 GP A Holy Symbol is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus . An Amulet can be worn or held.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Amulet"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Animal Feed (per day)",
+    "description": "Weight: 10 lb. Cost: 5 CP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Animal Feed (per day)"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Antitoxin",
+    "description": "Adventuring Gear Weight: — Cost: 50 GP As a Bonus Action , you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Antitoxin"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Arrows",
+    "description": "Adventuring Gear (Ammunition) Amount: 20 Storage: Quiver Weight: 1 lb. Cost: 1 GP Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. Storage must be bought separately.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Arrows"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Backpack",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 2 GP A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Backpack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Bagpipes",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 6 lb. Cost: 30 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Bagpipes"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Ball Bearings",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 1 GP As a Utilize action, you can spill Ball Bearings from their pouch . They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Ball Bearings"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Barrel",
+    "description": "Adventuring Gear Weight: 70 lb. Cost: 2 GP A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Barrel"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Basic Poison",
+    "description": "Adventuring Gear Weight: — Cost: 100 GP As a Bonus Action , you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra 1d4 Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Basic Poison"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Basket",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 4 SP A Basket holds up to 40 pounds within 2 cubic feet.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Basket"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Battleaxe",
+    "description": "Martial Melee Weapon Damage: 1d8 Slashing Properties: Versatile (1d10) Mastery: Topple Weight: 4 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Versatile",
+      "Item Rarity": "None",
+      "Name": "Battleaxe"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Bedroll",
+    "description": "Adventuring Gear Weight: 7 lb. Cost: 1 GP A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master ’s Guide ).",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Bedroll"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Bell",
+    "description": "Adventuring Gear Weight: — Cost: 1 GP When rung as a Utilize action, a Bell produces a sound that can be heard up to 60 feet away.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Bell"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Blanket",
+    "description": "Adventuring Gear Weight: 3 lb. Cost: 5 SP While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master ’s Guide ).",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Blanket"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Block and Tackle",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 1 GP A Block and Tackle allows you to hoist up to four times the weight you can normally lift.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Block and Tackle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Blowgun",
+    "description": "Martial Ranged Weapons Damage: 1 Piercing Properties: Ammunition ( Range 25/100; Needle ), Loading Mastery: Vex Weight: 1 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Loading",
+      "Item Rarity": "None",
+      "Name": "Blowgun"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Bolts",
+    "description": "Adventuring Gear (Ammunition) Amount: 20 Storage: Case Weight: 1½ lb. Cost: 1 GP Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. Storage must be bought separately.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Bolts"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Book",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 25 GP A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence (Arcana, History, Nature, or Religion) checks you make about that topic.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Book"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Breastplate",
+    "description": "Medium Armor Armor Class: 14 + Dex modifier (max 2) Strength: — Stealth: — Weight: 20 lb. Cost: 400 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Item Rarity": "None",
+      "Name": "Breastplate"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Brewer's Supplies",
+    "description": "Artisan's Tools Ability: Intelligence Weight: 9 lb. Cost: 20 GP Utilize: Detect poisoned drink (DC 15), or identify alcohol (DC 10) Craft: Antitoxin",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Brewer's Supplies"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Bucket",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 5 CP A Bucket holds up to half a cubic foot of contents.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Bucket"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Bullseye Lantern",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 10 GP A Bullseye Lantern burns Oil as fuel to cast Bright Light in a 60-foot Cone and Dim Light for an additional 60 feet.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Bullseye Lantern"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Burglar's Pack",
+    "description": "Adventuring Gear Weight: 42 lb. Cost: 16 GP A Burglar’s Pack contains the following items: Backpack , Ball Bearings , Bell , 10 Candles , Crowbar , Hooded Lantern , 7 flasks of Oil , 5 days of Rations , Rope , Tinderbox , and Waterskin .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Burglar's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Calligrapher's Supplies",
+    "description": "Artisan's Tools Ability: Dexterity Weight: 5 lb. Cost: 10 GP Utilize: Write text with impressive flourishes that guard against forgery (DC 15) Craft: Ink , Spell Scroll (Cantrip) , Spell Scroll (Level 1)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Calligrapher's Supplies"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Caltrops",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 1 GP As a Utilize action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Caltrops"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Candle",
+    "description": "Adventuring Gear Weight: — Cost: 1 CP For 1 hour, a lit Candle sheds Bright Light in a 5-foot radius and Dim Light for an additional 5 feet.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Candle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Carpenter's Tools",
+    "description": "Artisan's Tools Ability: Strength Weight: 6 lb. Cost: 8 GP Utilize: Seal or pry open a door or container (DC 20) Craft: Club , Greatclub , Quarterstaff , Barrel , Chest , Ladder , Pole , Portable Ram , Torch",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Carpenter's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Carriage",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Cart",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Cartographer's Tools",
+    "description": "Artisan's Tools Ability: Wisdom Weight: 6 lb. Cost: 15 GP Utilize: Draft a map of a small area (DC 15) Craft: Map",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Cartographer's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Chain",
+    "description": "Adventuring Gear Weight: 10 lb. Cost: 5 GP As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled , Incapacitated , or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Chain"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Chain Mail",
+    "description": "Heavy Armor Armor Class: 16 Strength: Str 13 Stealth: Disadvantage Weight: 55 lb. Cost: 75 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage, Strength Requirement",
+      "Item Rarity": "None",
+      "Name": "Chain Mail"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Chain Shirt",
+    "description": "Medium Armor Armor Class: 13 + Dex modifier (max 2) Strength: — Stealth: — Weight: 20 lb. Cost: 50 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Item Rarity": "None",
+      "Name": "Chain Shirt"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Chariot",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Chest",
+    "description": "Adventuring Gear Weight: 25 lb. Cost: 5 GP A Chest holds up to 12 cubic feet of contents.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Chest"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Climber's Kit",
+    "description": "Adventuring Gear Weight: 12 lb. Cost: 25 GP A Climber’s Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber’s Kit to anchor yourself; when you do, you can’t fall more than 25 feet from the anchor point, and you can’t move more than 25 feet from there without undoing the anchor as a Bonus Action .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Climber's Kit"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Club",
+    "description": "Simple Melee Weapon Damage: 1d4 Bludgeoning Properties: Light Mastery: Slow Weight: 2 lb. Cost: 1 SP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Light",
+      "Item Rarity": "None",
+      "Name": "Club"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Cobbler's Tools",
+    "description": "Artisan's Tools Ability: Dexterity Weight: 5 lb. Cost: 5 GP Utilize: Modify footwear to give Advantage on the wearer’s next Dexterity (Acrobatics) check (DC 10) Craft: Climber’s Kit",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Cobbler's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Component Pouch",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 25 GP A Component Pouch is watertight and filled with compartments that hold all the free Material components of your spells.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Component Pouch"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Cook's Utensils",
+    "description": "Artisan's Tools Ability: Wisdom Weight: 8 lb. Cost: 1 GP Utilize: Improve food’s flavor (DC 10), or detect spoiled or poisoned food (DC 15) Craft: Rations",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Cook's Utensils"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Costume",
+    "description": "Adventuring Gear Weight: 4 lb. Cost: 5 GP While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Costume"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Crossbow Bolt Case",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1 GP A Crossbow Bolt Case holds up to 20 Bolts .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Crossbow Bolt Case"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Crowbar",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 2 GP Using a Crowbar gives you Advantage on Strength checks where the Crowbar’s leverage can be applied.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Crowbar"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Crystal",
+    "description": "Adventuring Gear (Arcane Focus) Weight: 1 lb. Cost: 10 GP An Arcane Focus is bejeweled or carved to channel arcane magic. A Sorcerer , Warlock , or Wizard can use such an item as a Spellcasting Focus .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Crystal"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Dagger",
+    "description": "Simple Melee Weapon Damage: 1d4 Piercing Properties: Finesse , Light , Thrown ( Range 20/60) Mastery: Nick Weight: 1 lb. Cost: 2 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Finesse, Light, Thrown",
+      "Item Rarity": "None",
+      "Name": "Dagger"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Dart",
+    "description": "Simple Ranged Weapon Damage: 1d4 Piercing Properties: Finesse , Thrown ( Range 20/60) Mastery: Vex Weight: 1/4 lb. Cost: 5 CP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Finesse, Thrown",
+      "Item Rarity": "None",
+      "Name": "Dart"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Dice Set",
+    "description": "Tool (Gaming Set) Ability: Wisdom Weight: — Cost: 1 SP Utilize: Discern whether someone is cheating (DC 10), or win the game (DC 20)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Dice Set"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Diplomat's Pack",
+    "description": "Adventuring Gear Weight: 39 lb. Cost: 39 GP A Diplomat’s Pack contains the following items: Chest , Fine Clothes , Ink , 5 Ink Pens , Lamp , 2 Map Cases or Scroll Cases , 4 flasks of Oil , 5 sheets of Paper , 5 sheets of Parchment , Perfume , and Tinderbox .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Diplomat's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Disguise Kit",
+    "description": "Tool Ability: Charisma Weight: 3 lb. Cost: 25 GP Utilize: Apply makeup (DC 10) Craft: Costume",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Disguise Kit"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Dragonchess Set",
+    "description": "Tool (Gaming Set) Ability: Wisdom Weight: — Cost: 1 GP Utilize: Discern whether someone is cheating (DC 10), or win the game (DC 20)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Dragonchess Set"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Drum",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 3 lb. Cost: 6 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Drum"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Dulcimer",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 10 lb. Cost: 25 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Dulcimer"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Dungeoneer's Pack",
+    "description": "Adventuring Gear Weight: 55 lb. Cost: 12 GP A Dungeoneer’s Pack contains the following items: Backpack , Caltrops , Crowbar , 2 flasks of Oil , 10 days of Rations , Rope , Tinderbox , 10 Torches , and Waterskin .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Dungeoneer's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Emblem",
+    "description": "Adventuring Gear (Holy Symbol) Weight: — Cost: 5 GP A Holy Symbol is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus . An Emblem can be borne on fabric or a Shield .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Emblem"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Entertainer's Pack",
+    "description": "Adventuring Gear Weight: 58½ lb. Cost: 40 GP An Entertainer’s Pack contains the following items: Backpack , Bedroll , Bell , Bullseye Lantern , 3 Costumes , Mirror , 8 flasks of Oil , 9 days of Rations , Tinderbox , and Waterskin .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Entertainer's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Exotic Saddle",
+    "description": "Weight: 40 lb. Cost: 60 GP A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. An Exotic Saddle is required for riding an aquatic or a flying mount.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Exotic Saddle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Explorer's Pack",
+    "description": "Adventuring Gear Weight: 55 lb. Cost: 10 GP An Explorer’s Pack contains the following items: Backpack , Bedroll , 2 flasks of Oil , 10 days of Rations , Rope , Tinderbox , 10 Torches , and Waterskin .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Explorer's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Fine Clothes",
+    "description": "Adventuring Gear Weight: 6 lb. Cost: 15 GP Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Fine Clothes"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Firearm Bullets",
+    "description": "Adventuring Gear (Ammunition) Amount: 10 Storage: Pouch Weight: 2 lb. Cost: 3 GP Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. Storage must be bought separately.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Firearm Bullets"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Flail",
+    "description": "Martial Melee Weapon Damage: 1d8 Bludgeoning Properties: — Mastery: Sap Weight: 2 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Item Rarity": "None",
+      "Name": "Flail"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Flask",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 2 CP A Flask holds up to 1 pint.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Flask"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Flute",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 1 lb. Cost: 2 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Flute"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Forgery Kit",
+    "description": "Tool Ability: Dexterity Weight: 5 lb. Cost: 15 GP Utilize: Mimic 10 or fewer words of someone else’s handwriting (DC 15), or duplicate a wax seal (DC 20)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Forgery Kit"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Galley",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Glaive",
+    "description": "Martial Melee Weapon Damage: 1d10 Slashing Properties: Heavy , Reach , Two-Handed Mastery: Graze Weight: 6 lb. Cost: 20 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Reach, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Glaive"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Glass Bottle",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 2 GP A Glass Bottle holds up to 1½ pints.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Glass Bottle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Glassblower's Tools",
+    "description": "Artisan's Tools Ability: Intelligence Weight: 5 lb. Cost: 30 GP Utilize: Discern what a glass object held in the past 24 hours (DC 15) Craft: Glass Bottle , Magnifying Glass , Spyglass , Vial",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Glassblower's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Grappling Hook",
+    "description": "Adventuring Gear Weight: 4 lb. Cost: 2 GP As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a Rope to the hook, you can then climb it.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Grappling Hook"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Greataxe",
+    "description": "Martial Melee Weapon Damage: 1d12 Slashing Properties: Heavy , Two-Handed Mastery: Cleave Weight: 7 lb. Cost: 30 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Greataxe"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Greatclub",
+    "description": "Simple Melee Weapon Damage: 1d8 Bludgeoning Properties: Two-Handed Mastery: Push Weight: 10 lb. Cost: 2 SP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Greatclub"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Greatsword",
+    "description": "Martial Melee Weapon Damage: 2d6 Slashing Properties: Heavy , Two-Handed Mastery: Graze Weight: 6 lb. Cost: 50 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Greatsword"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Halberd",
+    "description": "Martial Melee Weapon Damage: 1d10 Slashing Properties: Heavy , Reach , Two-Handed Mastery: Cleave Weight: 6 lb. Cost: 20 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Reach, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Halberd"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Half Plate Armor",
+    "description": "Medium Armor Armor Class: 15 + Dex modifier (max 2) Strength: — Stealth: Disadvantage Weight: 40 lb. Cost: 750 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage",
+      "Item Rarity": "None",
+      "Name": "Half Plate Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Hand Crossbow",
+    "description": "Martial Ranged Weapons Damage: 1d6 Piercing Properties: Ammunition ( Range 30/120; Bolt ), Light , Loading Mastery: Vex Weight: 3 lb. Cost: 75 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Light, Loading",
+      "Item Rarity": "None",
+      "Name": "Hand Crossbow"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Handaxe",
+    "description": "Simple Melee Weapon Damage: 1d6 Slashing Properties: Light , Thrown ( Range 20/60) Mastery: Vex Weight: 2 lb. Cost: 5 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Light, Thrown",
+      "Item Rarity": "None",
+      "Name": "Handaxe"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Healer's Kit",
+    "description": "Adventuring Gear Weight: 3 lb. Cost: 5 GP A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Healer's Kit"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Heavy Crossbow",
+    "description": "Martial Ranged Weapons Damage: 1d10 Piercing Properties: Ammunition ( Range 100/400; Bolt ), Heavy , Loading , Two-Handed Mastery: Push Weight: 18 lb. Cost: 50 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Heavy, Loading, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Heavy Crossbow"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Herbalism Kit",
+    "description": "Tool Ability: Intelligence Weight: 3 lb. Cost: 5 GP Utilize: Identify a plant (DC 10) Craft: Antitoxin , Candle , Healer’s Kit , Potion of Healing",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Herbalism Kit"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Hide Armor",
+    "description": "Medium Armor Armor Class: 12 + Dex modifier (max 2) Strength: — Stealth: — Weight: 12 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Item Rarity": "None",
+      "Name": "Hide Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Holy Water",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 25 GP When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus ) or take 2d8 Radiant damage if it is a Fiend or an Undead.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Holy Water"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Hooded Lantern",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 5 GP A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. As a Bonus Action , you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Hooded Lantern"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Horn",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 2 lb. Cost: 3 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Horn"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Hunting Trap",
+    "description": "Adventuring Gear Weight: 25 lb. Cost: 5 GP As a Utilize action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Hunting Trap"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Ink",
+    "description": "Adventuring Gear Weight: — Cost: 10 GP Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 pages.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Ink"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Ink Pen",
+    "description": "Adventuring Gear Weight: — Cost: 2 CP Using Ink , an Ink Pen is used to write or draw.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Ink Pen"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Iron Pot",
+    "description": "Adventuring Gear Weight: 10 lb. Cost: 2 GP An Iron Pot holds up to 1 gallon.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Iron Pot"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Iron Spikes",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 1 GP Iron Spikes come in bundles of ten. As a Utilize action, you can use a blunt object, such as a Light Hammer , to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a Rope or Chain to the Spike.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Iron Spikes"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Javelin",
+    "description": "Simple Melee Weapon Damage: 1d6 Piercing Properties: Thrown ( Range 30/120) Mastery: Slow Weight: 2 lb. Cost: 5 SP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Thrown",
+      "Item Rarity": "None",
+      "Name": "Javelin"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Jeweler's Tools",
+    "description": "Artisan's Tools Ability: Intelligence Weight: 2 lb. Cost: 25 GP Utilize: Discern a gem’s value (DC 15) Craft: Arcane Focus: Crystal , Orb , Rod , Wand , Holy Symbol: Amulet , Emblem , Reliquary",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Jeweler's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Jug",
+    "description": "Adventuring Gear Weight: 4 lb. Cost: 2 CP A Jug holds up to 1 gallon.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Jug"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Keelboat",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Ladder",
+    "description": "Adventuring Gear Weight: 25 lb. Cost: 1 SP A Ladder is 10 feet tall. You must climb to move up or down it.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Ladder"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Lamp",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 5 SP A Lamp burns Oil as fuel to cast Bright Light in a 15-foot radius and Dim Light for an additional 30 feet.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Lamp"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Lance",
+    "description": "Martial Melee Weapon Damage: 1d10 Piercing Properties: Heavy , Reach , Two-Handed (unless mounted) Mastery: Topple Weight: 6 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Reach, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Lance"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Leather Armor",
+    "description": "Light Armor Armor Class: 11 + Dex modifier Strength : — Stealth: — Weight: 10 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Item Rarity": "None",
+      "Name": "Leather Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Leatherworker's Tools",
+    "description": "Artisan's Tools Ability: Dexterity Weight: 5 lb. Cost: 5 GP Utilize: Add a design to a leather item (DC 10) Craft: Sling , Whip , Hide Armor , Leather Armor , Studded Leather Armor , Backpack , Crossbow Bolt Case , Map Case , Scroll Case , Parchment , Pouch , Quiver , Waterskin",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Leatherworker's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Light Crossbow",
+    "description": "Simple Ranged Weapon Damage: 1d8 Piercing Properties: Ammunition ( Range 80/320; Bolt ), Loading , Two-Handed Mastery: Slow Weight: 5 lb. Cost: 25 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Loading, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Light Crossbow"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Light Hammer",
+    "description": "Simple Melee Weapon Damage: 1d4 Bludgeoning Properties: Light , Thrown ( Range 20/60) Mastery: Nick Weight: 2 lb. Cost: 2 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Light, Thrown",
+      "Item Rarity": "None",
+      "Name": "Light Hammer"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Lock",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 10 GP A Lock comes with a key. Without the key, a creature can use Thieves’ Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Lock"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Longbow",
+    "description": "Martial Ranged Weapons Damage: 1d8 Piercing Properties: Ammunition ( Range 150/600; Arrow ), Heavy , Two-Handed Mastery: Slow Weight: 2 lb. Cost: 50 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Heavy, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Longbow"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Longship",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Longsword",
+    "description": "Martial Melee Weapon Damage: 1d8 Slashing Properties: Versatile (1d10) Mastery: Sap Weight: 3 lb. Cost: 15 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Versatile",
+      "Item Rarity": "None",
+      "Name": "Longsword"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Lute",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 2 lb. Cost: 35 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Lute"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Lyre",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 2 lb. Cost: 30 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Lyre"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Mace",
+    "description": "Simple Melee Weapon Damage: 1d6 Bludgeoning Properties: — Mastery: Sap Weight: 4 lb. Cost: 5 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Item Rarity": "None",
+      "Name": "Mace"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Magnifying Glass",
+    "description": "Adventuring Gear Weight: — Cost: 100 GP A Magnifying Glass grants Advantage on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Magnifying Glass"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Manacles",
+    "description": "Adventuring Gear Weight: 6 lb. Cost: 2 GP As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled , Incapacitated , or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls , and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action. Each set of Manacles comes with a key. Without the key, a creature can use Thieves’ Tools to pick the Manacles’ lock with a successful DC 15 Dexterity (Sleight of Hand) check.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Manacles"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Map",
+    "description": "Adventuring Gear Weight: — Cost: 1 GP If you consult an accurate Map, you gain a +5 bonus to Wisdom (Survival) checks you make to find your way in the place represented on it.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Map"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Map Case",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1 GP A Map Case holds up to 10 sheets of paper or 5 sheets of parchment .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Map Case"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Mason's Tools",
+    "description": "Artisan's Tools Ability: Strength Weight: 8 lb. Cost: 10 GP Utilize: Chisel a symbol or hole in stone (DC 10) Craft: Block and Tackle",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Mason's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Maul",
+    "description": "Martial Melee Weapon Damage: 2d6 Bludgeoning Properties: Heavy , Two-Handed Mastery: Topple Weight: 10 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Maul"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Military Saddle",
+    "description": "Weight: 30 lb. Cost: 20 GP A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Military Saddle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Mirror",
+    "description": "Adventuring Gear Weight: 1/2 lb. Cost: 5 GP A handheld steel Mirror is useful for personal cosmetics but also for peeking around corners and reflecting light as a signal.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Mirror"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Morningstar",
+    "description": "Martial Melee Weapon Damage: 1d8 Piercing Properties: — Mastery: Sap Weight: 4 lb. Cost: 15 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Item Rarity": "None",
+      "Name": "Morningstar"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Musket",
+    "description": "Martial Ranged Weapons Damage: 1d12 Piercing Properties: Ammunition ( Range 40/120; Bullet ), Loading , Two-Handed Mastery: Slow Weight: 10 lb. Cost: 500 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Loading, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Musket"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Navigator's Tools",
+    "description": "Tools Ability: Wisdom Weight: 2 lb. Cost: 25 GP Utilize: Plot a course (DC 10), or determine position by stargazing (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Navigator's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Needles",
+    "description": "Adventuring Gear (Ammunition) Amount: 50 Storage: Pouch Weight: 1 lb. Cost: 1 GP Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. Storage must be bought separately.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Needles"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Net",
+    "description": "Adventuring Gear Weight: 3 lb. Cost: 1 GP When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus ) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger. To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Net"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Oil",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1 SP You can douse a creature, object, or space with Oil or use it as fuel, as detailed below. Dousing a Creature or an Object. When you take the Attack action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus ) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil. Dousing a Space. You can take the Utilize action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. Fuel. Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn’t need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Oil"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Orb",
+    "description": "Adventuring Gear (Arcane Focus) Weight: 3 lb. Cost: 20 GP An Arcane Focus is bejeweled or carved to channel arcane magic. A Sorcerer , Warlock , or Wizard can use such an item as a Spellcasting Focus .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Orb"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Padded Armor",
+    "description": "Light Armor Armor Class: 11 + Dex modifier Strength: — Stealth: Disadvantage Weight: 8 lb. Cost: 5 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage",
+      "Item Rarity": "None",
+      "Name": "Padded Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Painter's Supplies",
+    "description": "Artisan's Tools Ability: Wisdom Weight: 5 lb. Cost: 10 GP Utilize: Paint a recognizable image of something you’ve seen (DC 10) Craft: Druidic Focus: Sprig of Mistletoe , Yew Wand , Holy Symbol: Amulet , Emblem , Reliquary",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Painter's Supplies"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Pan Flute",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 2 lb. Cost: 12 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Pan Flute"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Paper",
+    "description": "Adventuring Gear Weight: — Cost: 2 SP One sheet of Paper can hold about 250 handwritten words.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Paper"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Parchment",
+    "description": "Adventuring Gear Weight: — Cost: 1 SP One sheet of Parchment can hold about 250 handwritten words.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Parchment"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Perfume",
+    "description": "Adventuring Gear Weight: — Cost: 5 GP Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within 5 feet of yourself.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Perfume"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Pike",
+    "description": "Martial Melee Weapon Damage: 1d10 Piercing Properties: Heavy , Reach , Two-Handed Mastery: Push Weight: 18 lb. Cost: 5 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Heavy, Reach, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Pike"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Pistol",
+    "description": "Martial Ranged Weapons Damage: 1d10 Piercing Properties: Ammunition ( Range 30/90; Bullet ), Loading Mastery: Vex Weight: 3 lb. Cost: 250 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Loading",
+      "Item Rarity": "None",
+      "Name": "Pistol"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Plate Armor",
+    "description": "Heavy Armor Armor Class: 18 Strength: Str 15 Stealth: Disadvantage Weight: 65 lb. Cost: 1,500 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage, Strength Requirement",
+      "Item Rarity": "None",
+      "Name": "Plate Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Playing Card Set",
+    "description": "Tool (Gaming Set) Ability: Wisdom Weight: — Cost: 5 SP Utilize: Discern whether someone is cheating (DC 10), or win the game (DC 20)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Playing Card Set"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Poisoner's Kit",
+    "description": "Tools Ability: Intelligence Weight: 2 lb. Cost: 50 GP Utilize: Detect a poisoned object (DC 10) Craft: Basic Poison",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Poisoner's Kit"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Pole",
+    "description": "Adventuring Gear Weight: 7 lb. Cost: 5 CP A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength (Athletics) check as part of a High or Long Jump , you can use the Pole to vault, giving yourself Advantage on the check.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Pole"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Portable Ram",
+    "description": "Adventuring Gear Weight: 35 lb. Cost: 4 GP You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Portable Ram"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Adventuring Gear Weight: 1/2 lb. Cost: 50 GP This potion is a magic item. As a Bonus Action , you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains 2d4 + 2 Hit Points .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Potion of Healing"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Potter's Tools",
+    "description": "Artisan's Tools Ability: Intelligence Weight: 3 lb. Cost: 10 GP Utilize: Discern what a ceramic object held in the past 24 hours (DC 15) Craft: Jug , Lamp",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Potter's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Pouch",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 5 SP A Pouch holds up to 6 pounds within one-fifth of a cubic foot.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Pouch"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Priest's Pack",
+    "description": "Adventuring Gear Weight: 29 lb. Cost: 33 GP A Priest’s Pack contains the following items: Backpack , Blanket , Holy Water , Lamp , 7 days of Rations , Robe , and Tinderbox .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Priest's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Quarterstaff",
+    "description": "Simple Melee Weapon Damage: 1d6 Bludgeoning Properties: Versatile (1d8) Mastery: Topple Weight: 4 lb. Cost: 2 SP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Versatile",
+      "Item Rarity": "None",
+      "Name": "Quarterstaff"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Quiver",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1 GP A Quiver holds up to 20 Arrows .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Quiver"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Rapier",
+    "description": "Martial Melee Weapon Damage: 1d8 Piercing Properties: Finesse Mastery: Vex Weight: 2 lb. Cost: 25 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Finesse",
+      "Item Rarity": "None",
+      "Name": "Rapier"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Rations",
+    "description": "Adventuring Gear Weight: 2 lb. Cost: 5 SP Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See “ Malnutrition ” for the risks of not eating.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Rations"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Reliquary",
+    "description": "Adventuring Gear (Holy Symbol) Weight: 2 lb. Cost: 5 GP A Holy Symbol is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus . A Reliquary can be held.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Reliquary"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Riding Saddle",
+    "description": "Weight: 25 lb. Cost: 10 GP A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Riding Saddle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Ring Mail",
+    "description": "Heavy Armor Armor Class: 14 Strength: — Stealth: Disadvantage Weight: 40 lb. Cost: 30 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage",
+      "Item Rarity": "None",
+      "Name": "Ring Mail"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Robe",
+    "description": "Adventuring Gear Weight: 4 lb. Cost: 1 GP A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Robe"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Rod",
+    "description": "Adventuring Gear (Arcane Focus) Weight: 2 lb. Cost: 10 GP An Arcane Focus is bejeweled or carved to channel arcane magic. A Sorcerer , Warlock , or Wizard can use such an item as a Spellcasting Focus .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Rod"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Rope",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 1 GP As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check. You can bind an unwilling creature with the Rope only if the creature has the Grappled , Incapacitated , or Restrained condition. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Rope"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Rowboat",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sack",
+    "description": "Adventuring Gear Weight: 1/2 lb. Cost: 1 CP A Sack holds up to 30 pounds within 1 cubic foot.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Sack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sailing Ship",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Scale Mail",
+    "description": "Medium Armor Armor Class: 14 + Dex modifier (max 2) Strength: — Stealth: Disadvantage Weight: 45 lb. Cost: 50 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage",
+      "Item Rarity": "None",
+      "Name": "Scale Mail"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Scholar's Pack",
+    "description": "Adventuring Gear Weight: 22 lb. Cost: 40 GP A Scholar’s Pack contains the following items: Backpack , Book , Ink , Ink Pen , Lamp , 10 flasks of Oil , 10 sheets of Parchment , and Tinderbox .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Scholar's Pack"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Scimitar",
+    "description": "Martial Melee Weapon Damage: 1d6 Slashing Properties: Finesse , Light Mastery: Nick Weight: 3 lb. Cost: 25 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Finesse, Light",
+      "Item Rarity": "None",
+      "Name": "Scimitar"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Scroll Case",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1 GP A Scroll Case holds up to 10 sheets of paper or 5 sheets of parchment .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Scroll Case"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Shawm",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 1 lb. Cost: 2 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Shawm"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Shield",
+    "description": "Shield Armor Class: +2 Strength: — Stealth: — Weight: 6 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Item Rarity": "None",
+      "Name": "Shield"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Shortbow",
+    "description": "Simple Ranged Weapon Damage: 1d6 Piercing Properties: Ammunition ( Range 80/320; Arrow ), Two-Handed Mastery: Vex Weight: 2 lb. Cost: 25 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition, Two-Handed",
+      "Item Rarity": "None",
+      "Name": "Shortbow"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Shortsword",
+    "description": "Martial Melee Weapon Damage: 1d6 Piercing Properties: Finesse , Light Mastery: Vex Weight: 2 lb. Cost: 10 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Finesse, Light",
+      "Item Rarity": "None",
+      "Name": "Shortsword"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Shovel",
+    "description": "Adventuring Gear Weight: 5 lb. Cost: 2 GP Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each side in soil or similar material.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Shovel"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sickle",
+    "description": "Simple Melee Weapon Damage: 1d4 Slashing Properties: Light Mastery: Nick Weight: 2 lb. Cost: 1 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Light",
+      "Item Rarity": "None",
+      "Name": "Sickle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Signal Whistle",
+    "description": "Adventuring Gear Weight: — Cost: 5 CP When blown as a Utilize action, a Signal Whistle produces a sound that can be heard up to 600 feet away.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Signal Whistle"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sled",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sling",
+    "description": "Simple Ranged Weapon Damage: 1d4 Bludgeoning Properties: Ammunition ( Range 30/120; Bullet ) Mastery: Slow Weight: — Cost: 1 SP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Ranged Weapon",
+      "Properties": "Ammunition",
+      "Item Rarity": "None",
+      "Name": "Sling"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sling Bullets",
+    "description": "Adventuring Gear (Ammunition) Amount: 20 Storage: Pouch Weight: 1½ lb. Cost: 4 CP Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. Storage must be bought separately.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Sling Bullets"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Smith's Tools",
+    "description": "Artisan's Tools Ability: Strength Weight: 8 lb. Cost: 20 GP Utilize: Pry open a door or container (DC 20) Craft: Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings , Bucket , Caltrops , Chain , Crowbar , Firearm Bullets , Grappling Hook , Iron Pot , Iron Spikes , Sling Bullets",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Smith's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Spear",
+    "description": "Simple Melee Weapon Damage: 1d6 Piercing Properties: Thrown ( Range 20/60), Versatile (1d8) Mastery: Sap Weight: 3 lb. Cost: 1 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Thrown, Versatile",
+      "Item Rarity": "None",
+      "Name": "Spear"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Spell Scroll (Cantrip)",
+    "description": "Adventuring Gear Weight: — Cost: 30 GP A Spell Scroll (Cantrip) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components. If the spell requires a saving throw or an attack roll , the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Spell Scroll (Cantrip)"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Spell Scroll (Level 1)",
+    "description": "Adventuring Gear Weight: — Cost: 50 GP A Spell Scroll (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components. If the spell requires a saving throw or an attack roll , the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Spell Scroll (Level 1)"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Splint Armor",
+    "description": "Heavy Armor Armor Class: 17 Strength: Str 15 Stealth: Disadvantage Weight: 60 lb. Cost: 200 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Properties": "Stealth Disadvantage, Strength Requirement",
+      "Item Rarity": "None",
+      "Name": "Splint Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Sprig of Mistletoe",
+    "description": "Adventuring Gear (Druidic Focus) Weight: — Cost: 1 GP A Druidic Focus is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Sprig of Mistletoe"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Spyglass",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1,000 GP Objects viewed through a Spyglass are magnified to twice their size.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Spyglass"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "String",
+    "description": "Adventuring Gear Weight: — Cost: 1 SP String is 10 feet long. You can tie a knot in it as a Utilize action.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "String"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Studded Leather Armor",
+    "description": "Light Armor Armor Class: 12 + Dex modifier Strength: — Stealth: — Weight: 13 lb. Cost: 45 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Armor",
+      "Item Rarity": "None",
+      "Name": "Studded Leather Armor"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Tent",
+    "description": "Adventuring Gear Weight: 20 lb. Cost: 2 GP A Tent sleeps up to two Small or Medium creatures.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Tent"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Thieves' Tools",
+    "description": "Tools Ability: Dexterity Weight: 1 lb. Cost: 25 GP Utilize: Pick a lock (DC 15), or disarm a trap (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Thieves' Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Three-Dragon Ante Set",
+    "description": "Tool (Gaming Set) Ability: Wisdom Weight: — Cost: 1 GP Utilize: Discern whether someone is cheating (DC 10), or win the game (DC 20)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Three-Dragon Ante Set"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Tinderbox",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 5 SP A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle , Lamp , Bullseye Lantern , Hooded Lantern , or Torch —or anything else with exposed fuel—takes a Bonus Action . Lighting any other fire takes 1 minute.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Tinderbox"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Tinker's Tools",
+    "description": "Artisan's Tools Ability: Dexterity Weight: 10 lb. Cost: 50 GP Utilize: Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20) Craft: Musket , Pistol , Bell , Bullseye Lantern , Flask , Hooded Lantern , Hunting Trap , Lock , Manacles , Mirror , Shovel , Signal Whistle , Tinderbox",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Tinker's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Torch",
+    "description": "Adventuring Gear Weight: 1 lb. Cost: 1 CP A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. When you take the Attack action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Torch"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Traveler's Clothes",
+    "description": "Adventuring Gear Weight: 4 lb. Cost: 2 GP Traveler’s Clothes are resilient garments designed for travel in various environments.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Traveler's Clothes"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Trident",
+    "description": "Martial Melee Weapon Damage: 1d8 Piercing Properties: Thrown ( Range 20/60), Versatile (1d10) Mastery: Topple Weight: 4 lb. Cost: 5 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Thrown, Versatile",
+      "Item Rarity": "None",
+      "Name": "Trident"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Vial",
+    "description": "Adventuring Gear Weight: — Cost: 1 GP A Vial holds up to 4 ounces.",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Vial"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Viol",
+    "description": "Tool (Musical Instrument) Ability: Charisma Weight: 1 lb. Cost: 30 GP Utilize: Play a known tune (DC 10), or improvise a song (DC 15)",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Viol"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Wagon",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Wand",
+    "description": "Adventuring Gear (Arcane Focus) Weight: 1 lb. Cost: 10 GP An Arcane Focus is bejeweled or carved to channel arcane magic. A Sorcerer , Warlock , or Wizard can use such an item as a Spellcasting Focus .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Wand"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "War Pick",
+    "description": "Martial Melee Weapon Damage: 1d8 Piercing Properties: Versatile (1d10) Mastery: Sap Weight: 2 lb. Cost: 5 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Versatile",
+      "Item Rarity": "None",
+      "Name": "War Pick"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Warhammer",
+    "description": "Martial Melee Weapon Damage: 1d8 Bludgeoning Properties: Versatile (1d10) Mastery: Push Weight: 5 lb. Cost: 15 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Versatile",
+      "Item Rarity": "None",
+      "Name": "Warhammer"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Warship",
+    "description": "",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Vehicle",
+      "Item Rarity": "None"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Waterskin",
+    "description": "Adventuring Gear Weight: 5 lb. (full) Cost: 2 SP A Waterskin holds up to 4 pints. If you don’t drink sufficient water, you risk dehydration .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Waterskin"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Weaver's Tools",
+    "description": "Artisan's Tools Ability: Dexterity Weight: 5 lb. Cost: 1 GP Utilize: Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10) Craft: Padded Armor , Basket , Bedroll , Blanket , Fine Clothes , Net , Robe , Rope , Sack , String , Tent , Traveler’s Clothes",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Weaver's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Whip",
+    "description": "Martial Melee Weapon Damage: 1d4 Slashing Properties: Finesse , Reach Mastery: Slow Weight: 3 lb. Cost: 2 GP",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Melee Weapon",
+      "Properties": "Finesse, Reach",
+      "Item Rarity": "None",
+      "Name": "Whip"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Woodcarver's Tools",
+    "description": "Artisan's Tools Ability: Dexterity Weight: 5 lb. Cost: 1 GP Utilize: Carve a pattern in wood (DC 10) Craft: Club , Greatclub , Quarterstaff , Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus: Crystal , Orb , Rod , Wand , Arrows , Bolts , Druidic Focus: Sprig of Mistletoe , Yew Wand , Ink Pen , Needles",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Tool",
+      "Item Rarity": "None",
+      "Name": "Woodcarver's Tools"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  },
+  {
+    "name": "Yew Wand",
+    "description": "Adventuring Gear (Druidic Focus) Weight: 1 lb. Cost: 10 GP A Druidic Focus is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus .",
+    "properties": {
+      "Category": "Items",
+      "Item Type": "Adventuring Gear",
+      "Item Rarity": "None",
+      "Name": "Yew Wand"
+    },
+    "publisher": "Wizards of the Coast",
+    "book": "Player's Handbook (2024)"
+  }
+]
