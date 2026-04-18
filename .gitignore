@@ -15,5 +15,5 @@
 .history/
 
 # Local agent files
-.ai-jail/
-.codex/
+.ai-jail
+.codex
